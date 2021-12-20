@@ -16,5 +16,7 @@ Implementation of Multi-layer Perceptron : https://scikit-learn.org/
 
 # Project Presentation
 
+https://github.com/IndraSK/YouTubeCommentsSpamClassification/blob/main/CS418-CourseProject%20(1).pptx
+
 
 

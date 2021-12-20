@@ -19,5 +19,6 @@ https://github.com/IndraSK/YouTubeCommentsSpamClassification/blob/main/CS418-Cou
 
 # Project Report
 
+https://github.com/IndraSK/YouTubeCommentsSpamClassification/blob/main/Youtube%20comments%20spam%20classification.pdf
 
 

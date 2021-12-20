@@ -17,6 +17,6 @@ Implementation of Multi-layer Perceptron : https://scikit-learn.org/
 
 
 
-# [Project Report](CS418_CourseProject.pptx)
+# [Project Report](Youtube comments spam classification.pdf)
 
 

@@ -7,16 +7,17 @@ Dataset of 5 most watched videos on YouTube by 2015 is taken as input that has C
 # Methodology :
 
 1. Data Acquisition
-2. Data Cleaning
-3. Data Splitting
-4. Feature Extraction
-5. Machine learning models
+2. Data Cleaning and Sampling
+3. Feature Extraction
+4. Machine learning models
 
 Implementation of Multi-layer Perceptron : https://scikit-learn.org/
 
 # Project Presentation
 
 https://github.com/IndraSK/YouTubeCommentsSpamClassification/blob/main/CS418-CourseProject%20(1).pptx
+
+# Project Report
 
 
 

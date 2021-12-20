@@ -4,7 +4,7 @@ YouTube has attracted an increasing number of users. However, such success has a
 
 Dataset of 5 most watched videos on YouTube by 2015 is taken as input that has Comment_ID, Author, Data, Content and Class
 
-# Methodology Followed:
+# Methodology :
 
 1. Data Acquisition
 2. Data Cleaning

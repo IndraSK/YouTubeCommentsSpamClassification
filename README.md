@@ -17,6 +17,6 @@ Implementation of Multi-layer Perceptron : https://scikit-learn.org/
 
 
 
-# [Project Report](Youtube comments spam classification.pdf)
+# [Project Report](https://github.com/IndraSK/YouTubeCommentsSpamClassification/blob/main/Youtube%20comments%20spam%20classification.pdf)
 
 
